@@ -1,0 +1,48 @@
+div {
+	position: static;
+}
+.red {
+	height: 200px;
+	width: 200px;
+	background-color: red;
+	margin-bottom: 10px;
+}
+.purple {
+	height: 100px;
+	width: 100px;
+	background-color: purple;
+	position: absolute;
+	left: 55px;
+	top: 55px;
+
+}
+.yellow {
+	height: 50px;
+	width: 50px;
+	background-color: yellow;
+	position: absolute;
+	left: 55px;
+	top: 55px;
+}
+.blue {
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+	position: absolute;
+}
+.green {
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+}
+.black {
+	height: 50px;
+	width: 50px;
+	background-color: black;
+	position: absolute;
+	left: 0px;
+	top: 0px;	
+}
